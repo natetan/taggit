@@ -1,3 +1,4 @@
+console.log('i am here');
 var clarifai = require('clarifai');
 
 var app = new Clarifai.App(
